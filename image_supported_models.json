@@ -16,8 +16,10 @@
     "mini-cpm-2.6",
     "bunny-llama-3-8b",
     "deepseek-vl",
+    "deepseek-v2:16b",
     "idefics2-8b",
     "llava-llama-3-8b",
+    "llava-llama3:8b",
     "meta-llama/llama-3.2-11b-vision-instruct:free" 
   ]
 }
