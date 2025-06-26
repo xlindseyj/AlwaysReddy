@@ -22,3 +22,4 @@ run_AlwaysReddy.bat
 !/actions/transcribe_to_clipboard
 !/actions/transcribe_and_paste
 !/actions/example_action
+/.venv
