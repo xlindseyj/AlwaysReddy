@@ -7,11 +7,13 @@ pyautogui
 pydub
 python-dotenv
 pynput
+pyautogui
 sounddevice
 soundfile
 tiktoken
 requests
 PyAudio
 pillow
+opencv-python
 ahk ; sys_platform == 'win32'
 ahk[binary] ; sys_platform == 'win32'
