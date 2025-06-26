@@ -2,7 +2,6 @@ from utils.utils import to_clipboard
 from actions.base_action import BaseAction
 from config_loader import config
 import pyautogui
-import time
 
 class TranscribeAndPaste(BaseAction):
     """Action for transcribing audio to clipboard and pasting it."""
